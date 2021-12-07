@@ -15,7 +15,7 @@ public class Produto {
 	
 	private @Id @GeneratedValue(strategy = GenerationType.IDENTITY) Long id;
 	
-	private @NotNull String tiulo;
+	private @NotNull String titulo;
 
 	private @NotNull String fotoUrl;
 
@@ -31,12 +31,12 @@ public class Produto {
 		this.id = id;
 	}
 
-	public String getTiulo() {
-		return tiulo;
+	public String getTitulo() {
+		return titulo;
 	}
 
-	public void setTiulo(String tiulo) {
-		this.tiulo = tiulo;
+	public void setTitulo(String titulo) {
+		this.titulo = titulo;
 	}
 
 	public String getFotoUrl() {
