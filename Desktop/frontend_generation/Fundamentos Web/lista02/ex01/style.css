@@ -1,0 +1,12 @@
+body {
+  font-size: 1rem;
+  font-family: "Helvetica Neue", Helvetica;
+  border-radius: 5rem;
+  padding: 15rem;
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+input {
+  margin-top: 0.9rem;
+}

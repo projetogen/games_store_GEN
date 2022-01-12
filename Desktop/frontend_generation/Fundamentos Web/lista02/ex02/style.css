@@ -1,0 +1,9 @@
+body {
+  font-size: 1.5em;
+  font-family: "Helvetica Neue", Helvetica;
+  border-radius: 5em;
+  border-radius: 5rem;
+  padding: 15rem;
+  text-align: center;
+  background: whitesmoke;
+}
